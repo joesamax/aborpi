@@ -80,3 +80,4 @@
 	<gap:splash src="splash.png" gap:platform="android" gap:qualifier="xxxhdpi" />
 	
 </widget>
+ 
